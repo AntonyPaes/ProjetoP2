@@ -1,0 +1,654 @@
+{
+ "meta": {
+  "name": "Pixel Top-down Town Tileset",
+  "tile_size": 16,
+  "image": "spritesheet.png",
+  "count": 92
+ },
+ "frames": {
+  "grass_1": {
+   "x": 0,
+   "y": 0,
+   "w": 16,
+   "h": 16,
+   "category": "ground"
+  },
+  "grass_2": {
+   "x": 16,
+   "y": 0,
+   "w": 16,
+   "h": 16,
+   "category": "ground"
+  },
+  "grass_3": {
+   "x": 32,
+   "y": 0,
+   "w": 16,
+   "h": 16,
+   "category": "ground"
+  },
+  "grass_dark": {
+   "x": 48,
+   "y": 0,
+   "w": 16,
+   "h": 16,
+   "category": "ground"
+  },
+  "dirt": {
+   "x": 64,
+   "y": 0,
+   "w": 16,
+   "h": 16,
+   "category": "ground"
+  },
+  "sand": {
+   "x": 80,
+   "y": 0,
+   "w": 16,
+   "h": 16,
+   "category": "ground"
+  },
+  "cobble_1": {
+   "x": 96,
+   "y": 0,
+   "w": 16,
+   "h": 16,
+   "category": "ground"
+  },
+  "cobble_2": {
+   "x": 112,
+   "y": 0,
+   "w": 16,
+   "h": 16,
+   "category": "ground"
+  },
+  "cobble_3": {
+   "x": 128,
+   "y": 0,
+   "w": 16,
+   "h": 16,
+   "category": "ground"
+  },
+  "pavement_1": {
+   "x": 144,
+   "y": 0,
+   "w": 16,
+   "h": 16,
+   "category": "ground"
+  },
+  "pavement_2": {
+   "x": 160,
+   "y": 0,
+   "w": 16,
+   "h": 16,
+   "category": "ground"
+  },
+  "road_h": {
+   "x": 176,
+   "y": 0,
+   "w": 16,
+   "h": 16,
+   "category": "road"
+  },
+  "road_dash_h": {
+   "x": 0,
+   "y": 16,
+   "w": 16,
+   "h": 16,
+   "category": "road"
+  },
+  "road_dash_v": {
+   "x": 16,
+   "y": 16,
+   "w": 16,
+   "h": 16,
+   "category": "road"
+  },
+  "road_cross_h": {
+   "x": 32,
+   "y": 16,
+   "w": 16,
+   "h": 16,
+   "category": "road"
+  },
+  "road_cross_v": {
+   "x": 48,
+   "y": 16,
+   "w": 16,
+   "h": 16,
+   "category": "road"
+  },
+  "road_curb_t": {
+   "x": 64,
+   "y": 16,
+   "w": 16,
+   "h": 16,
+   "category": "road"
+  },
+  "road_curb_b": {
+   "x": 80,
+   "y": 16,
+   "w": 16,
+   "h": 16,
+   "category": "road"
+  },
+  "road_curb_l": {
+   "x": 96,
+   "y": 16,
+   "w": 16,
+   "h": 16,
+   "category": "road"
+  },
+  "road_curb_r": {
+   "x": 112,
+   "y": 16,
+   "w": 16,
+   "h": 16,
+   "category": "road"
+  },
+  "road_cross_int": {
+   "x": 128,
+   "y": 16,
+   "w": 16,
+   "h": 16,
+   "category": "road"
+  },
+  "water_1": {
+   "x": 144,
+   "y": 16,
+   "w": 16,
+   "h": 16,
+   "category": "water"
+  },
+  "water_2": {
+   "x": 160,
+   "y": 16,
+   "w": 16,
+   "h": 16,
+   "category": "water"
+  },
+  "water_3": {
+   "x": 176,
+   "y": 16,
+   "w": 16,
+   "h": 16,
+   "category": "water"
+  },
+  "roof_red_1": {
+   "x": 0,
+   "y": 32,
+   "w": 16,
+   "h": 16,
+   "category": "roof"
+  },
+  "roof_red_2": {
+   "x": 16,
+   "y": 32,
+   "w": 16,
+   "h": 16,
+   "category": "roof"
+  },
+  "roof_blue_1": {
+   "x": 32,
+   "y": 32,
+   "w": 16,
+   "h": 16,
+   "category": "roof"
+  },
+  "roof_blue_2": {
+   "x": 48,
+   "y": 32,
+   "w": 16,
+   "h": 16,
+   "category": "roof"
+  },
+  "roof_gray_1": {
+   "x": 64,
+   "y": 32,
+   "w": 16,
+   "h": 16,
+   "category": "roof"
+  },
+  "roof_gray_2": {
+   "x": 80,
+   "y": 32,
+   "w": 16,
+   "h": 16,
+   "category": "roof"
+  },
+  "roof_green_1": {
+   "x": 96,
+   "y": 32,
+   "w": 16,
+   "h": 16,
+   "category": "roof"
+  },
+  "roof_green_2": {
+   "x": 112,
+   "y": 32,
+   "w": 16,
+   "h": 16,
+   "category": "roof"
+  },
+  "roof_brown_1": {
+   "x": 128,
+   "y": 32,
+   "w": 16,
+   "h": 16,
+   "category": "roof"
+  },
+  "roof_brown_2": {
+   "x": 144,
+   "y": 32,
+   "w": 16,
+   "h": 16,
+   "category": "roof"
+  },
+  "roof_yellow_1": {
+   "x": 160,
+   "y": 32,
+   "w": 16,
+   "h": 16,
+   "category": "roof"
+  },
+  "roof_yellow_2": {
+   "x": 176,
+   "y": 32,
+   "w": 16,
+   "h": 16,
+   "category": "roof"
+  },
+  "wall_brick": {
+   "x": 0,
+   "y": 48,
+   "w": 16,
+   "h": 16,
+   "category": "wall"
+  },
+  "wall_plaster": {
+   "x": 16,
+   "y": 48,
+   "w": 16,
+   "h": 16,
+   "category": "wall"
+  },
+  "wall_wood": {
+   "x": 32,
+   "y": 48,
+   "w": 16,
+   "h": 16,
+   "category": "wall"
+  },
+  "wall_stone": {
+   "x": 48,
+   "y": 48,
+   "w": 16,
+   "h": 16,
+   "category": "wall"
+  },
+  "wall_plaster_blue": {
+   "x": 64,
+   "y": 48,
+   "w": 16,
+   "h": 16,
+   "category": "wall"
+  },
+  "wall_timber": {
+   "x": 80,
+   "y": 48,
+   "w": 16,
+   "h": 16,
+   "category": "wall"
+  },
+  "window": {
+   "x": 96,
+   "y": 48,
+   "w": 16,
+   "h": 16,
+   "category": "props"
+  },
+  "window_arch": {
+   "x": 112,
+   "y": 48,
+   "w": 16,
+   "h": 16,
+   "category": "props"
+  },
+  "window_shutters": {
+   "x": 128,
+   "y": 48,
+   "w": 16,
+   "h": 16,
+   "category": "props"
+  },
+  "door_wood": {
+   "x": 144,
+   "y": 48,
+   "w": 16,
+   "h": 16,
+   "category": "props"
+  },
+  "door_red": {
+   "x": 160,
+   "y": 48,
+   "w": 16,
+   "h": 16,
+   "category": "props"
+  },
+  "door_blue": {
+   "x": 176,
+   "y": 48,
+   "w": 16,
+   "h": 16,
+   "category": "props"
+  },
+  "door_arch": {
+   "x": 0,
+   "y": 64,
+   "w": 16,
+   "h": 16,
+   "category": "props"
+  },
+  "awning_red": {
+   "x": 16,
+   "y": 64,
+   "w": 16,
+   "h": 16,
+   "category": "props"
+  },
+  "awning_blue": {
+   "x": 32,
+   "y": 64,
+   "w": 16,
+   "h": 16,
+   "category": "props"
+  },
+  "awning_green": {
+   "x": 48,
+   "y": 64,
+   "w": 16,
+   "h": 16,
+   "category": "props"
+  },
+  "chimney": {
+   "x": 64,
+   "y": 64,
+   "w": 16,
+   "h": 16,
+   "category": "props"
+  },
+  "lamp_post": {
+   "x": 80,
+   "y": 64,
+   "w": 16,
+   "h": 16,
+   "category": "props"
+  },
+  "bench": {
+   "x": 96,
+   "y": 64,
+   "w": 16,
+   "h": 16,
+   "category": "props"
+  },
+  "fountain": {
+   "x": 112,
+   "y": 64,
+   "w": 16,
+   "h": 16,
+   "category": "props"
+  },
+  "tree_oak": {
+   "x": 128,
+   "y": 64,
+   "w": 16,
+   "h": 16,
+   "category": "props"
+  },
+  "tree_light": {
+   "x": 144,
+   "y": 64,
+   "w": 16,
+   "h": 16,
+   "category": "props"
+  },
+  "tree_autumn": {
+   "x": 160,
+   "y": 64,
+   "w": 16,
+   "h": 16,
+   "category": "props"
+  },
+  "tree_pine": {
+   "x": 176,
+   "y": 64,
+   "w": 16,
+   "h": 16,
+   "category": "props"
+  },
+  "bush": {
+   "x": 0,
+   "y": 80,
+   "w": 16,
+   "h": 16,
+   "category": "props"
+  },
+  "flower_pot_red": {
+   "x": 16,
+   "y": 80,
+   "w": 16,
+   "h": 16,
+   "category": "props"
+  },
+  "flower_pot_yellow": {
+   "x": 32,
+   "y": 80,
+   "w": 16,
+   "h": 16,
+   "category": "props"
+  },
+  "flower_pot_pink": {
+   "x": 48,
+   "y": 80,
+   "w": 16,
+   "h": 16,
+   "category": "props"
+  },
+  "hydrant": {
+   "x": 64,
+   "y": 80,
+   "w": 16,
+   "h": 16,
+   "category": "props"
+  },
+  "mailbox": {
+   "x": 80,
+   "y": 80,
+   "w": 16,
+   "h": 16,
+   "category": "props"
+  },
+  "trash_can": {
+   "x": 96,
+   "y": 80,
+   "w": 16,
+   "h": 16,
+   "category": "props"
+  },
+  "recycling_bin": {
+   "x": 112,
+   "y": 80,
+   "w": 16,
+   "h": 16,
+   "category": "props"
+  },
+  "post_box": {
+   "x": 128,
+   "y": 80,
+   "w": 16,
+   "h": 16,
+   "category": "props"
+  },
+  "barrel": {
+   "x": 144,
+   "y": 80,
+   "w": 16,
+   "h": 16,
+   "category": "props"
+  },
+  "crate": {
+   "x": 160,
+   "y": 80,
+   "w": 16,
+   "h": 16,
+   "category": "props"
+  },
+  "market_stall_red": {
+   "x": 176,
+   "y": 80,
+   "w": 16,
+   "h": 16,
+   "category": "props"
+  },
+  "market_stall_green": {
+   "x": 0,
+   "y": 96,
+   "w": 16,
+   "h": 16,
+   "category": "props"
+  },
+  "market_stall_blue": {
+   "x": 16,
+   "y": 96,
+   "w": 16,
+   "h": 16,
+   "category": "props"
+  },
+  "sign_shop": {
+   "x": 32,
+   "y": 96,
+   "w": 16,
+   "h": 16,
+   "category": "props"
+  },
+  "street_sign": {
+   "x": 48,
+   "y": 96,
+   "w": 16,
+   "h": 16,
+   "category": "props"
+  },
+  "stop_sign": {
+   "x": 64,
+   "y": 96,
+   "w": 16,
+   "h": 16,
+   "category": "props"
+  },
+  "statue": {
+   "x": 80,
+   "y": 96,
+   "w": 16,
+   "h": 16,
+   "category": "props"
+  },
+  "well": {
+   "x": 96,
+   "y": 96,
+   "w": 16,
+   "h": 16,
+   "category": "props"
+  },
+  "cart": {
+   "x": 112,
+   "y": 96,
+   "w": 16,
+   "h": 16,
+   "category": "props"
+  },
+  "car_red": {
+   "x": 128,
+   "y": 96,
+   "w": 16,
+   "h": 16,
+   "category": "props"
+  },
+  "car_blue": {
+   "x": 144,
+   "y": 96,
+   "w": 16,
+   "h": 16,
+   "category": "props"
+  },
+  "car_yellow": {
+   "x": 160,
+   "y": 96,
+   "w": 16,
+   "h": 16,
+   "category": "props"
+  },
+  "bicycle": {
+   "x": 176,
+   "y": 96,
+   "w": 16,
+   "h": 16,
+   "category": "props"
+  },
+  "flagpole": {
+   "x": 0,
+   "y": 112,
+   "w": 16,
+   "h": 16,
+   "category": "props"
+  },
+  "rock": {
+   "x": 16,
+   "y": 112,
+   "w": 16,
+   "h": 16,
+   "category": "props"
+  },
+  "fence_wood": {
+   "x": 32,
+   "y": 112,
+   "w": 16,
+   "h": 16,
+   "category": "props"
+  },
+  "fence_iron": {
+   "x": 48,
+   "y": 112,
+   "w": 16,
+   "h": 16,
+   "category": "props"
+  },
+  "flower_red": {
+   "x": 64,
+   "y": 112,
+   "w": 16,
+   "h": 16,
+   "category": "props"
+  },
+  "flower_yellow": {
+   "x": 80,
+   "y": 112,
+   "w": 16,
+   "h": 16,
+   "category": "props"
+  },
+  "flower_blue": {
+   "x": 96,
+   "y": 112,
+   "w": 16,
+   "h": 16,
+   "category": "props"
+  },
+  "cafe_table": {
+   "x": 112,
+   "y": 112,
+   "w": 16,
+   "h": 16,
+   "category": "props"
+  }
+ }
+}
