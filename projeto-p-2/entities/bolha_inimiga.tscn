@@ -1,0 +1,20 @@
+[gd_scene format=3 uid="uid://rmmwu5adfwp6"]
+
+[ext_resource type="Script" uid="uid://c48ka76nwcrj4" path="res://scripts/bolha_inimiga.gd" id="1_4g53o"]
+[ext_resource type="Texture2D" uid="uid://dgyhh60s57we0" path="res://assets/bolha_32x32.png" id="1_sxly4"]
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_4g53o"]
+radius = 3.1622777
+
+[node name="BolhaInimiga" type="CharacterBody2D" unique_id=1973218739]
+script = ExtResource("1_4g53o")
+
+[node name="Sprite2D" type="Sprite2D" parent="." unique_id=1158712524]
+position = Vector2(4.7683716e-07, 0)
+scale = Vector2(0.237, 0.2)
+texture = ExtResource("1_sxly4")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="." unique_id=1779271594]
+shape = SubResource("CircleShape2D_4g53o")
+
+[node name="NavigationAgent2D" type="NavigationAgent2D" parent="." unique_id=1979608374]

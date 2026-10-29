@@ -1,0 +1,19 @@
+[gd_scene format=3 uid="uid://dfrc0k328xmtb"]
+
+[ext_resource type="Script" uid="uid://cvtskip8op2th" path="res://scripts/carro.gd" id="1_1wmw5"]
+[ext_resource type="Texture2D" uid="uid://sb7v8xot2co1" path="res://assets/'90s vehicles.png" id="1_07sed"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_0yrln"]
+size = Vector2(26, 49)
+
+[node name="Carro" type="StaticBody2D" unique_id=2055779020]
+script = ExtResource("1_1wmw5")
+
+[node name="Visual" type="Sprite2D" parent="." unique_id=479871709]
+texture = ExtResource("1_07sed")
+region_enabled = true
+region_rect = Rect2(176.94737, 705.4979, 42.448456, 64.57587)
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="." unique_id=1812311294]
+position = Vector2(2, 0.5)
+shape = SubResource("RectangleShape2D_0yrln")
