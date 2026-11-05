@@ -1,0 +1,9 @@
+SPRITES INDIVIDUAIS - LIMITE DE 250 PX
+
+Cada arquivo PNG contém um recorte individual da folha original.
+Nenhum sprite foi redesenhado; os pixels originais foram preservados.
+Todos os arquivos têm largura e altura de no máximo 250 px.
+A transparência PNG foi mantida.
+
+Observação: a folha original foi gerada como uma atlas visual, não como uma grade perfeita de tiles 16x16. Alguns efeitos pequenos (gotas/bolhas) podem estar separados em arquivos próprios.
+No Godot, use Nearest/Nearest Neighbor para manter o pixel art nítido.

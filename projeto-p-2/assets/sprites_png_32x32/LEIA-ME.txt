@@ -1,0 +1,10 @@
+PACOTE DE SPRITES INDIVIDUAIS — 32x32 PX
+
+- Cada arquivo PNG tem exatamente 32x32 pixels.
+- Fundo transparente (RGBA).
+- Um elemento por arquivo.
+- Os desenhos foram preservados; os sprites foram ajustados proporcionalmente para caber em 32x32.
+- Redimensionamento por vizinho mais próximo (Nearest Neighbor), adequado para pixel art e sem blur.
+- Total de sprites: 105.
+
+No Godot 4, importe os PNGs individualmente como Texture2D e use Sprite2D. Para pixel art, configure o filtro da textura/projeto como Nearest.

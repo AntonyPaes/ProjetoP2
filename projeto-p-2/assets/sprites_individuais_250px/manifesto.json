@@ -1,0 +1,1577 @@
+[
+  {
+    "file": "piso_001.png",
+    "width": 103,
+    "height": 105,
+    "source_bbox": [
+      11,
+      13,
+      103,
+      105
+    ],
+    "pixels_before_resize": [
+      103,
+      105
+    ]
+  },
+  {
+    "file": "piso_002.png",
+    "width": 103,
+    "height": 105,
+    "source_bbox": [
+      121,
+      13,
+      103,
+      105
+    ],
+    "pixels_before_resize": [
+      103,
+      105
+    ]
+  },
+  {
+    "file": "piso_003.png",
+    "width": 102,
+    "height": 104,
+    "source_bbox": [
+      231,
+      13,
+      102,
+      104
+    ],
+    "pixels_before_resize": [
+      102,
+      104
+    ]
+  },
+  {
+    "file": "piso_004.png",
+    "width": 102,
+    "height": 104,
+    "source_bbox": [
+      341,
+      13,
+      102,
+      104
+    ],
+    "pixels_before_resize": [
+      102,
+      104
+    ]
+  },
+  {
+    "file": "piso_005.png",
+    "width": 101,
+    "height": 104,
+    "source_bbox": [
+      451,
+      13,
+      101,
+      104
+    ],
+    "pixels_before_resize": [
+      101,
+      104
+    ]
+  },
+  {
+    "file": "piso_006.png",
+    "width": 102,
+    "height": 104,
+    "source_bbox": [
+      560,
+      13,
+      102,
+      104
+    ],
+    "pixels_before_resize": [
+      102,
+      104
+    ]
+  },
+  {
+    "file": "piso_007.png",
+    "width": 103,
+    "height": 104,
+    "source_bbox": [
+      669,
+      13,
+      103,
+      104
+    ],
+    "pixels_before_resize": [
+      103,
+      104
+    ]
+  },
+  {
+    "file": "piso_008.png",
+    "width": 103,
+    "height": 104,
+    "source_bbox": [
+      779,
+      13,
+      103,
+      104
+    ],
+    "pixels_before_resize": [
+      103,
+      104
+    ]
+  },
+  {
+    "file": "piso_009.png",
+    "width": 104,
+    "height": 104,
+    "source_bbox": [
+      889,
+      13,
+      104,
+      104
+    ],
+    "pixels_before_resize": [
+      104,
+      104
+    ]
+  },
+  {
+    "file": "piso_010.png",
+    "width": 104,
+    "height": 104,
+    "source_bbox": [
+      1002,
+      13,
+      104,
+      104
+    ],
+    "pixels_before_resize": [
+      104,
+      104
+    ]
+  },
+  {
+    "file": "piso_011.png",
+    "width": 103,
+    "height": 105,
+    "source_bbox": [
+      1114,
+      14,
+      103,
+      105
+    ],
+    "pixels_before_resize": [
+      103,
+      105
+    ]
+  },
+  {
+    "file": "piso_012.png",
+    "width": 103,
+    "height": 105,
+    "source_bbox": [
+      1224,
+      14,
+      103,
+      105
+    ],
+    "pixels_before_resize": [
+      103,
+      105
+    ]
+  },
+  {
+    "file": "piso_013.png",
+    "width": 97,
+    "height": 105,
+    "source_bbox": [
+      1334,
+      14,
+      97,
+      105
+    ],
+    "pixels_before_resize": [
+      97,
+      105
+    ]
+  },
+  {
+    "file": "piso_014.png",
+    "width": 93,
+    "height": 105,
+    "source_bbox": [
+      1433,
+      14,
+      93,
+      105
+    ],
+    "pixels_before_resize": [
+      93,
+      105
+    ]
+  },
+  {
+    "file": "piso_015.png",
+    "width": 103,
+    "height": 105,
+    "source_bbox": [
+      11,
+      125,
+      103,
+      105
+    ],
+    "pixels_before_resize": [
+      103,
+      105
+    ]
+  },
+  {
+    "file": "piso_016.png",
+    "width": 103,
+    "height": 105,
+    "source_bbox": [
+      121,
+      125,
+      103,
+      105
+    ],
+    "pixels_before_resize": [
+      103,
+      105
+    ]
+  },
+  {
+    "file": "piso_017.png",
+    "width": 103,
+    "height": 105,
+    "source_bbox": [
+      231,
+      125,
+      103,
+      105
+    ],
+    "pixels_before_resize": [
+      103,
+      105
+    ]
+  },
+  {
+    "file": "piso_018.png",
+    "width": 101,
+    "height": 105,
+    "source_bbox": [
+      451,
+      125,
+      101,
+      105
+    ],
+    "pixels_before_resize": [
+      101,
+      105
+    ]
+  },
+  {
+    "file": "piso_019.png",
+    "width": 103,
+    "height": 105,
+    "source_bbox": [
+      559,
+      125,
+      103,
+      105
+    ],
+    "pixels_before_resize": [
+      103,
+      105
+    ]
+  },
+  {
+    "file": "piso_020.png",
+    "width": 103,
+    "height": 104,
+    "source_bbox": [
+      669,
+      125,
+      103,
+      104
+    ],
+    "pixels_before_resize": [
+      103,
+      104
+    ]
+  },
+  {
+    "file": "piso_021.png",
+    "width": 103,
+    "height": 105,
+    "source_bbox": [
+      779,
+      125,
+      103,
+      105
+    ],
+    "pixels_before_resize": [
+      103,
+      105
+    ]
+  },
+  {
+    "file": "piso_022.png",
+    "width": 102,
+    "height": 104,
+    "source_bbox": [
+      341,
+      126,
+      102,
+      104
+    ],
+    "pixels_before_resize": [
+      102,
+      104
+    ]
+  },
+  {
+    "file": "piso_023.png",
+    "width": 97,
+    "height": 100,
+    "source_bbox": [
+      892,
+      128,
+      97,
+      100
+    ],
+    "pixels_before_resize": [
+      97,
+      100
+    ]
+  },
+  {
+    "file": "piso_024.png",
+    "width": 27,
+    "height": 26,
+    "source_bbox": [
+      1136,
+      128,
+      27,
+      26
+    ],
+    "pixels_before_resize": [
+      27,
+      26
+    ]
+  },
+  {
+    "file": "piso_025.png",
+    "width": 97,
+    "height": 94,
+    "source_bbox": [
+      1005,
+      131,
+      97,
+      94
+    ],
+    "pixels_before_resize": [
+      97,
+      94
+    ]
+  },
+  {
+    "file": "piso_026.png",
+    "width": 103,
+    "height": 101,
+    "source_bbox": [
+      1224,
+      131,
+      103,
+      101
+    ],
+    "pixels_before_resize": [
+      103,
+      101
+    ]
+  },
+  {
+    "file": "piso_027.png",
+    "width": 94,
+    "height": 96,
+    "source_bbox": [
+      1336,
+      135,
+      94,
+      96
+    ],
+    "pixels_before_resize": [
+      94,
+      96
+    ]
+  },
+  {
+    "file": "piso_028.png",
+    "width": 90,
+    "height": 97,
+    "source_bbox": [
+      1436,
+      135,
+      90,
+      97
+    ],
+    "pixels_before_resize": [
+      90,
+      97
+    ]
+  },
+  {
+    "file": "piso_029.png",
+    "width": 33,
+    "height": 34,
+    "source_bbox": [
+      1179,
+      136,
+      33,
+      34
+    ],
+    "pixels_before_resize": [
+      33,
+      34
+    ]
+  },
+  {
+    "file": "piso_030.png",
+    "width": 68,
+    "height": 61,
+    "source_bbox": [
+      1118,
+      151,
+      68,
+      61
+    ],
+    "pixels_before_resize": [
+      68,
+      61
+    ]
+  },
+  {
+    "file": "piso_031.png",
+    "width": 26,
+    "height": 27,
+    "source_bbox": [
+      1186,
+      171,
+      26,
+      27
+    ],
+    "pixels_before_resize": [
+      26,
+      27
+    ]
+  },
+  {
+    "file": "piso_032.png",
+    "width": 29,
+    "height": 29,
+    "source_bbox": [
+      1168,
+      199,
+      29,
+      29
+    ],
+    "pixels_before_resize": [
+      29,
+      29
+    ]
+  },
+  {
+    "file": "equipamentos_033.png",
+    "width": 222,
+    "height": 163,
+    "source_bbox": [
+      7,
+      235,
+      222,
+      163
+    ],
+    "pixels_before_resize": [
+      222,
+      163
+    ]
+  },
+  {
+    "file": "equipamentos_034.png",
+    "width": 99,
+    "height": 161,
+    "source_bbox": [
+      1120,
+      238,
+      99,
+      161
+    ],
+    "pixels_before_resize": [
+      99,
+      161
+    ]
+  },
+  {
+    "file": "equipamentos_035.png",
+    "width": 118,
+    "height": 153,
+    "source_bbox": [
+      895,
+      241,
+      118,
+      153
+    ],
+    "pixels_before_resize": [
+      118,
+      153
+    ]
+  },
+  {
+    "file": "equipamentos_036.png",
+    "width": 150,
+    "height": 155,
+    "source_bbox": [
+      461,
+      243,
+      150,
+      155
+    ],
+    "pixels_before_resize": [
+      150,
+      155
+    ]
+  },
+  {
+    "file": "equipamentos_037.png",
+    "width": 88,
+    "height": 147,
+    "source_bbox": [
+      1024,
+      244,
+      88,
+      147
+    ],
+    "pixels_before_resize": [
+      88,
+      147
+    ]
+  },
+  {
+    "file": "equipamentos_038.png",
+    "width": 88,
+    "height": 160,
+    "source_bbox": [
+      251,
+      245,
+      88,
+      160
+    ],
+    "pixels_before_resize": [
+      88,
+      160
+    ]
+  },
+  {
+    "file": "equipamentos_039.png",
+    "width": 87,
+    "height": 160,
+    "source_bbox": [
+      358,
+      245,
+      87,
+      160
+    ],
+    "pixels_before_resize": [
+      87,
+      160
+    ]
+  },
+  {
+    "file": "equipamentos_040.png",
+    "width": 73,
+    "height": 136,
+    "source_bbox": [
+      802,
+      247,
+      73,
+      136
+    ],
+    "pixels_before_resize": [
+      73,
+      136
+    ]
+  },
+  {
+    "file": "equipamentos_041.png",
+    "width": 110,
+    "height": 144,
+    "source_bbox": [
+      680,
+      250,
+      110,
+      144
+    ],
+    "pixels_before_resize": [
+      110,
+      144
+    ]
+  },
+  {
+    "file": "equipamentos_042.png",
+    "width": 98,
+    "height": 137,
+    "source_bbox": [
+      1229,
+      253,
+      98,
+      137
+    ],
+    "pixels_before_resize": [
+      98,
+      137
+    ]
+  },
+  {
+    "file": "equipamentos_043.png",
+    "width": 101,
+    "height": 136,
+    "source_bbox": [
+      577,
+      262,
+      101,
+      136
+    ],
+    "pixels_before_resize": [
+      101,
+      136
+    ]
+  },
+  {
+    "file": "equipamentos_044.png",
+    "width": 77,
+    "height": 82,
+    "source_bbox": [
+      1453,
+      272,
+      77,
+      82
+    ],
+    "pixels_before_resize": [
+      77,
+      82
+    ]
+  },
+  {
+    "file": "equipamentos_045.png",
+    "width": 56,
+    "height": 66,
+    "source_bbox": [
+      1335,
+      279,
+      56,
+      66
+    ],
+    "pixels_before_resize": [
+      56,
+      66
+    ]
+  },
+  {
+    "file": "equipamentos_046.png",
+    "width": 57,
+    "height": 66,
+    "source_bbox": [
+      1391,
+      279,
+      57,
+      66
+    ],
+    "pixels_before_resize": [
+      57,
+      66
+    ]
+  },
+  {
+    "file": "posto_sinalizacao_047.png",
+    "width": 108,
+    "height": 160,
+    "source_bbox": [
+      7,
+      402,
+      108,
+      160
+    ],
+    "pixels_before_resize": [
+      108,
+      160
+    ]
+  },
+  {
+    "file": "posto_sinalizacao_048.png",
+    "width": 109,
+    "height": 160,
+    "source_bbox": [
+      119,
+      402,
+      109,
+      160
+    ],
+    "pixels_before_resize": [
+      109,
+      160
+    ]
+  },
+  {
+    "file": "posto_sinalizacao_049.png",
+    "width": 99,
+    "height": 155,
+    "source_bbox": [
+      232,
+      409,
+      99,
+      155
+    ],
+    "pixels_before_resize": [
+      99,
+      155
+    ]
+  },
+  {
+    "file": "posto_sinalizacao_050.png",
+    "width": 201,
+    "height": 149,
+    "source_bbox": [
+      695,
+      413,
+      201,
+      149
+    ],
+    "pixels_before_resize": [
+      201,
+      149
+    ]
+  },
+  {
+    "file": "posto_sinalizacao_051.png",
+    "width": 181,
+    "height": 146,
+    "source_bbox": [
+      343,
+      416,
+      181,
+      146
+    ],
+    "pixels_before_resize": [
+      181,
+      146
+    ]
+  },
+  {
+    "file": "posto_sinalizacao_052.png",
+    "width": 141,
+    "height": 141,
+    "source_bbox": [
+      1221,
+      417,
+      141,
+      141
+    ],
+    "pixels_before_resize": [
+      141,
+      141
+    ]
+  },
+  {
+    "file": "posto_sinalizacao_053.png",
+    "width": 73,
+    "height": 113,
+    "source_bbox": [
+      1375,
+      429,
+      73,
+      113
+    ],
+    "pixels_before_resize": [
+      73,
+      113
+    ]
+  },
+  {
+    "file": "posto_sinalizacao_054.png",
+    "width": 60,
+    "height": 109,
+    "source_bbox": [
+      1464,
+      434,
+      60,
+      109
+    ],
+    "pixels_before_resize": [
+      60,
+      109
+    ]
+  },
+  {
+    "file": "posto_sinalizacao_055.png",
+    "width": 78,
+    "height": 111,
+    "source_bbox": [
+      1130,
+      445,
+      78,
+      111
+    ],
+    "pixels_before_resize": [
+      78,
+      111
+    ]
+  },
+  {
+    "file": "posto_sinalizacao_056.png",
+    "width": 157,
+    "height": 116,
+    "source_bbox": [
+      531,
+      446,
+      157,
+      116
+    ],
+    "pixels_before_resize": [
+      157,
+      116
+    ]
+  },
+  {
+    "file": "posto_sinalizacao_057.png",
+    "width": 68,
+    "height": 83,
+    "source_bbox": [
+      900,
+      458,
+      68,
+      83
+    ],
+    "pixels_before_resize": [
+      68,
+      83
+    ]
+  },
+  {
+    "file": "posto_sinalizacao_058.png",
+    "width": 83,
+    "height": 76,
+    "source_bbox": [
+      1041,
+      458,
+      83,
+      76
+    ],
+    "pixels_before_resize": [
+      83,
+      76
+    ]
+  },
+  {
+    "file": "posto_sinalizacao_059.png",
+    "width": 66,
+    "height": 78,
+    "source_bbox": [
+      969,
+      463,
+      66,
+      78
+    ],
+    "pixels_before_resize": [
+      66,
+      78
+    ]
+  },
+  {
+    "file": "limpeza_060.png",
+    "width": 52,
+    "height": 111,
+    "source_bbox": [
+      79,
+      573,
+      52,
+      111
+    ],
+    "pixels_before_resize": [
+      52,
+      111
+    ]
+  },
+  {
+    "file": "limpeza_061.png",
+    "width": 100,
+    "height": 117,
+    "source_bbox": [
+      1217,
+      575,
+      100,
+      117
+    ],
+    "pixels_before_resize": [
+      100,
+      117
+    ]
+  },
+  {
+    "file": "limpeza_062.png",
+    "width": 72,
+    "height": 119,
+    "source_bbox": [
+      713,
+      576,
+      72,
+      119
+    ],
+    "pixels_before_resize": [
+      72,
+      119
+    ]
+  },
+  {
+    "file": "limpeza_063.png",
+    "width": 72,
+    "height": 112,
+    "source_bbox": [
+      1337,
+      576,
+      72,
+      112
+    ],
+    "pixels_before_resize": [
+      72,
+      112
+    ]
+  },
+  {
+    "file": "limpeza_064.png",
+    "width": 70,
+    "height": 118,
+    "source_bbox": [
+      804,
+      577,
+      70,
+      118
+    ],
+    "pixels_before_resize": [
+      70,
+      118
+    ]
+  },
+  {
+    "file": "limpeza_065.png",
+    "width": 54,
+    "height": 106,
+    "source_bbox": [
+      12,
+      578,
+      54,
+      106
+    ],
+    "pixels_before_resize": [
+      54,
+      106
+    ]
+  },
+  {
+    "file": "limpeza_066.png",
+    "width": 36,
+    "height": 123,
+    "source_bbox": [
+      933,
+      578,
+      36,
+      123
+    ],
+    "pixels_before_resize": [
+      36,
+      123
+    ]
+  },
+  {
+    "file": "limpeza_067.png",
+    "width": 31,
+    "height": 128,
+    "source_bbox": [
+      1067,
+      578,
+      31,
+      128
+    ],
+    "pixels_before_resize": [
+      31,
+      128
+    ]
+  },
+  {
+    "file": "limpeza_068.png",
+    "width": 91,
+    "height": 121,
+    "source_bbox": [
+      1114,
+      578,
+      91,
+      121
+    ],
+    "pixels_before_resize": [
+      91,
+      121
+    ]
+  },
+  {
+    "file": "limpeza_069.png",
+    "width": 77,
+    "height": 127,
+    "source_bbox": [
+      973,
+      579,
+      77,
+      127
+    ],
+    "pixels_before_resize": [
+      77,
+      127
+    ]
+  },
+  {
+    "file": "limpeza_070.png",
+    "width": 87,
+    "height": 104,
+    "source_bbox": [
+      1434,
+      580,
+      87,
+      104
+    ],
+    "pixels_before_resize": [
+      87,
+      104
+    ]
+  },
+  {
+    "file": "limpeza_071.png",
+    "width": 46,
+    "height": 97,
+    "source_bbox": [
+      141,
+      586,
+      46,
+      97
+    ],
+    "pixels_before_resize": [
+      46,
+      97
+    ]
+  },
+  {
+    "file": "limpeza_072.png",
+    "width": 45,
+    "height": 97,
+    "source_bbox": [
+      191,
+      586,
+      45,
+      97
+    ],
+    "pixels_before_resize": [
+      45,
+      97
+    ]
+  },
+  {
+    "file": "limpeza_073.png",
+    "width": 45,
+    "height": 96,
+    "source_bbox": [
+      241,
+      586,
+      45,
+      96
+    ],
+    "pixels_before_resize": [
+      45,
+      96
+    ]
+  },
+  {
+    "file": "limpeza_074.png",
+    "width": 33,
+    "height": 102,
+    "source_bbox": [
+      882,
+      589,
+      33,
+      102
+    ],
+    "pixels_before_resize": [
+      33,
+      102
+    ]
+  },
+  {
+    "file": "limpeza_075.png",
+    "width": 45,
+    "height": 91,
+    "source_bbox": [
+      292,
+      591,
+      45,
+      91
+    ],
+    "pixels_before_resize": [
+      45,
+      91
+    ]
+  },
+  {
+    "file": "limpeza_076.png",
+    "width": 58,
+    "height": 89,
+    "source_bbox": [
+      350,
+      594,
+      58,
+      89
+    ],
+    "pixels_before_resize": [
+      58,
+      89
+    ]
+  },
+  {
+    "file": "limpeza_077.png",
+    "width": 61,
+    "height": 79,
+    "source_bbox": [
+      415,
+      604,
+      61,
+      79
+    ],
+    "pixels_before_resize": [
+      61,
+      79
+    ]
+  },
+  {
+    "file": "limpeza_078.png",
+    "width": 90,
+    "height": 56,
+    "source_bbox": [
+      495,
+      612,
+      90,
+      56
+    ],
+    "pixels_before_resize": [
+      90,
+      56
+    ]
+  },
+  {
+    "file": "limpeza_079.png",
+    "width": 116,
+    "height": 75,
+    "source_bbox": [
+      595,
+      612,
+      116,
+      75
+    ],
+    "pixels_before_resize": [
+      116,
+      75
+    ]
+  },
+  {
+    "file": "limpeza_080.png",
+    "width": 225,
+    "height": 192,
+    "source_bbox": [
+      242,
+      694,
+      225,
+      192
+    ],
+    "pixels_before_resize": [
+      225,
+      192
+    ]
+  },
+  {
+    "file": "veiculo_piso_081.png",
+    "width": 144,
+    "height": 185,
+    "source_bbox": [
+      38,
+      700,
+      144,
+      185
+    ],
+    "pixels_before_resize": [
+      144,
+      185
+    ]
+  },
+  {
+    "file": "veiculo_piso_082.png",
+    "width": 167,
+    "height": 163,
+    "source_bbox": [
+      500,
+      709,
+      167,
+      163
+    ],
+    "pixels_before_resize": [
+      167,
+      163
+    ]
+  },
+  {
+    "file": "veiculo_piso_083.png",
+    "width": 142,
+    "height": 152,
+    "source_bbox": [
+      684,
+      716,
+      142,
+      152
+    ],
+    "pixels_before_resize": [
+      142,
+      152
+    ]
+  },
+  {
+    "file": "veiculo_piso_084.png",
+    "width": 150,
+    "height": 154,
+    "source_bbox": [
+      834,
+      716,
+      150,
+      154
+    ],
+    "pixels_before_resize": [
+      150,
+      154
+    ]
+  },
+  {
+    "file": "veiculo_piso_085.png",
+    "width": 113,
+    "height": 141,
+    "source_bbox": [
+      1278,
+      716,
+      113,
+      141
+    ],
+    "pixels_before_resize": [
+      113,
+      141
+    ]
+  },
+  {
+    "file": "veiculo_piso_086.png",
+    "width": 130,
+    "height": 140,
+    "source_bbox": [
+      1397,
+      717,
+      130,
+      140
+    ],
+    "pixels_before_resize": [
+      130,
+      140
+    ]
+  },
+  {
+    "file": "veiculo_piso_087.png",
+    "width": 142,
+    "height": 143,
+    "source_bbox": [
+      991,
+      718,
+      142,
+      143
+    ],
+    "pixels_before_resize": [
+      142,
+      143
+    ]
+  },
+  {
+    "file": "veiculo_piso_088.png",
+    "width": 132,
+    "height": 139,
+    "source_bbox": [
+      1140,
+      718,
+      132,
+      139
+    ],
+    "pixels_before_resize": [
+      132,
+      139
+    ]
+  },
+  {
+    "file": "veiculo_piso_089.png",
+    "width": 60,
+    "height": 125,
+    "source_bbox": [
+      834,
+      878,
+      60,
+      125
+    ],
+    "pixels_before_resize": [
+      60,
+      125
+    ]
+  },
+  {
+    "file": "decoracao_090.png",
+    "width": 92,
+    "height": 115,
+    "source_bbox": [
+      1421,
+      885,
+      92,
+      115
+    ],
+    "pixels_before_resize": [
+      92,
+      115
+    ]
+  },
+  {
+    "file": "decoracao_091.png",
+    "width": 93,
+    "height": 107,
+    "source_bbox": [
+      1320,
+      892,
+      93,
+      107
+    ],
+    "pixels_before_resize": [
+      93,
+      107
+    ]
+  },
+  {
+    "file": "decoracao_092.png",
+    "width": 58,
+    "height": 104,
+    "source_bbox": [
+      907,
+      896,
+      58,
+      104
+    ],
+    "pixels_before_resize": [
+      58,
+      104
+    ]
+  },
+  {
+    "file": "decoracao_093.png",
+    "width": 95,
+    "height": 85,
+    "source_bbox": [
+      1045,
+      896,
+      95,
+      85
+    ],
+    "pixels_before_resize": [
+      95,
+      85
+    ]
+  },
+  {
+    "file": "decoracao_094.png",
+    "width": 82,
+    "height": 101,
+    "source_bbox": [
+      1232,
+      896,
+      82,
+      101
+    ],
+    "pixels_before_resize": [
+      82,
+      101
+    ]
+  },
+  {
+    "file": "decoracao_095.png",
+    "width": 114,
+    "height": 106,
+    "source_bbox": [
+      542,
+      897,
+      114,
+      106
+    ],
+    "pixels_before_resize": [
+      114,
+      106
+    ]
+  },
+  {
+    "file": "decoracao_096.png",
+    "width": 64,
+    "height": 97,
+    "source_bbox": [
+      978,
+      897,
+      64,
+      97
+    ],
+    "pixels_before_resize": [
+      64,
+      97
+    ]
+  },
+  {
+    "file": "decoracao_097.png",
+    "width": 78,
+    "height": 91,
+    "source_bbox": [
+      1144,
+      898,
+      78,
+      91
+    ],
+    "pixels_before_resize": [
+      78,
+      91
+    ]
+  },
+  {
+    "file": "decoracao_098.png",
+    "width": 80,
+    "height": 82,
+    "source_bbox": [
+      663,
+      900,
+      80,
+      82
+    ],
+    "pixels_before_resize": [
+      80,
+      82
+    ]
+  },
+  {
+    "file": "decoracao_099.png",
+    "width": 63,
+    "height": 74,
+    "source_bbox": [
+      758,
+      908,
+      63,
+      74
+    ],
+    "pixels_before_resize": [
+      63,
+      74
+    ]
+  },
+  {
+    "file": "decoracao_100.png",
+    "width": 78,
+    "height": 91,
+    "source_bbox": [
+      20,
+      909,
+      78,
+      91
+    ],
+    "pixels_before_resize": [
+      78,
+      91
+    ]
+  },
+  {
+    "file": "decoracao_101.png",
+    "width": 58,
+    "height": 79,
+    "source_bbox": [
+      318,
+      909,
+      58,
+      79
+    ],
+    "pixels_before_resize": [
+      58,
+      79
+    ]
+  },
+  {
+    "file": "decoracao_102.png",
+    "width": 111,
+    "height": 82,
+    "source_bbox": [
+      200,
+      912,
+      111,
+      82
+    ],
+    "pixels_before_resize": [
+      111,
+      82
+    ]
+  },
+  {
+    "file": "decoracao_103.png",
+    "width": 77,
+    "height": 72,
+    "source_bbox": [
+      114,
+      916,
+      77,
+      72
+    ],
+    "pixels_before_resize": [
+      77,
+      72
+    ]
+  },
+  {
+    "file": "decoracao_104.png",
+    "width": 68,
+    "height": 76,
+    "source_bbox": [
+      386,
+      916,
+      68,
+      76
+    ],
+    "pixels_before_resize": [
+      68,
+      76
+    ]
+  },
+  {
+    "file": "decoracao_105.png",
+    "width": 68,
+    "height": 76,
+    "source_bbox": [
+      462,
+      916,
+      68,
+      76
+    ],
+    "pixels_before_resize": [
+      68,
+      76
+    ]
+  }
+]
